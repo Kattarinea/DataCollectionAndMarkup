@@ -32,8 +32,6 @@ seats — количество посадочных мест.
 
 ![image](https://github.com/Kattarinea/DataCollectionAndMarkup/assets/65298723/50fe7dcc-6962-4256-b6f8-1846cc6404e2)
 
-![image](https://github.com/Kattarinea/DataCollectionAndMarkup/assets/65298723/c39ee28e-c0eb-4d07-a567-48245e06f17c)
-
 Анализ рейтинга заведений показал, что кондитерские и караоке не имеют максимальных оценок. По среднему рейтингу данные заведения ниже остальных. Низкие оценки встречаются не очень редко. Больше всего они наблюдаются у кафе и ресторанов, что логично, их и в датасете больше.
 
 ![image](https://github.com/Kattarinea/DataCollectionAndMarkup/assets/65298723/78b0b140-ac5c-4be0-b112-aab8288343c0)
