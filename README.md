@@ -1,2 +1,2 @@
 # DataCollectionAndMarkup
-Репозиторий с выполненными заданиями по курсу "Сбор и разметка данных для машинного обучения"
+В ветке HW_1 содержатся файлы собраных датасетов при помощи web-scraping (MyDataset - датасет ресторанов/кафе с сайта https://www.restoclub.ru для Питера и Екатеринбурга [698 записей]; MyDataset_afisha_novosib - датасет ресторанов/кафе с сайта https://www.afisha.ru для Новосибирска [1972 записи]; MyDataset_afisha_spb - датасет ресторанов/кафе с сайта https://www.afisha.ru для Питера [1992 записи]) и открытый датасет (датасет заведений общественного питания Москвы с GitHub - https://github.com/gantsel/Market_of_public_catering_establishments_in_Moscow [8406 записей]) + EDA.
